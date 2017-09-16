@@ -1,1 +1,6 @@
 abc
+<<<<<<< Updated upstream
+=======
+add
+xyz
+>>>>>>> Stashed changes
